@@ -17,7 +17,7 @@ const Content = (props) => {
       <Part part={props.course.parts[1]} />
       <Part part={props.course.parts[2]} />
     </div>
-  );
+  ); 
 };
 
 const Total = (props) => {
